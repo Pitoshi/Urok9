@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06a4aff1-2188-4e49-aa8b-a6f9b21090ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/DaylyPlanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/PlayerStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Tournament.java" afterDir="false" />
+    <list default="true" id="06a4aff1-2188-4e49-aa8b-a6f9b21090ca" name="Changes" comment="Выполнены задания урока №9: &#10;1. По описанию класса Player (игрок);&#10;2. По созданию списко дел &quot;DaylyPlanner&quot;;&#10;3. По созанию списка объетов, на примере известных кинофильмов классы &quot;Movie&quot; and &quot;Main&quot;;&#10;4. По созданию хранилища игроков &quot;PlayerStorage&quot;;&#10;5. И по созданию турнирной тадлицы для хранения результатов игры &quot;Tournnament&quot;.">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/innopolis/Tournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Tournament.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +120,36 @@
       <option name="presentableId" value="Default" />
       <updated>1730500100541</updated>
     </task>
+    <task id="LOCAL-00001" summary="Выполнены задания урока №9: &#10;1. По описанию класса Player (игрок);&#10;2. По созданию списко дел &quot;DaylyPlanner&quot;;&#10;3. По созанию списка объетов, на примере известных кинофильмов классы &quot;Movie&quot; and &quot;Main&quot;;&#10;4. По созданию хранилища игроков &quot;PlayerStorage&quot;;&#10;5. И по созданию турнирной тадлицы для хранения результатов игры &quot;Tournnament&quot;.">
+      <created>1730758675720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730758675720</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Выполнены задания урока №9: &#10;1. По описанию класса Player (игрок);&#10;2. По созданию списко дел &quot;DaylyPlanner&quot;;&#10;3. По созанию списка объетов, на примере известных кинофильмов классы &quot;Movie&quot; and &quot;Main&quot;;&#10;4. По созданию хранилища игроков &quot;PlayerStorage&quot;;&#10;5. И по созданию турнирной тадлицы для хранения результатов игры &quot;Tournnament&quot;.">
+      <created>1730758841900</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730758841900</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Выполнены задания урока №9: &#10;1. По описанию класса Player (игрок);&#10;2. По созданию списко дел &quot;DaylyPlanner&quot;;&#10;3. По созанию списка объетов, на примере известных кинофильмов классы &quot;Movie&quot; and &quot;Main&quot;;&#10;4. По созданию хранилища игроков &quot;PlayerStorage&quot;;&#10;5. И по созданию турнирной тадлицы для хранения результатов игры &quot;Tournnament&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнены задания урока №9: &#10;1. По описанию класса Player (игрок);&#10;2. По созданию списко дел &quot;DaylyPlanner&quot;;&#10;3. По созанию списка объетов, на примере известных кинофильмов классы &quot;Movie&quot; and &quot;Main&quot;;&#10;4. По созданию хранилища игроков &quot;PlayerStorage&quot;;&#10;5. И по созданию турнирной тадлицы для хранения результатов игры &quot;Tournnament&quot;." />
   </component>
 </project>

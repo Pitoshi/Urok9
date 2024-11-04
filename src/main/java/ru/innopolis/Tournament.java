@@ -3,7 +3,7 @@ package ru.innopolis;
 import java.util.*;
 
 public class Tournament {
-    private Map<Player, Integer> points;
+    public Map<Player, Integer> points;
 
     public Tournament() {
         points = new HashMap<>();
