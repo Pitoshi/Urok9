@@ -1,9 +1,9 @@
 package ru.innopolis;
 
 public class Player {
-    private int id;
-    private String nickname;
-    private boolean isOnline;
+    private final int id;
+    private final String nickname;
+    private final boolean isOnline;
 
     // Конструктор
     public Player(int id, String nickname, boolean isOnline) {
@@ -15,14 +15,6 @@ public class Player {
     // Геттеры
     public int getId() {
         return id;
-    }
-
-    public String getNickname() {
-        return nickname;
-    }
-
-    public boolean isOnline() {
-        return isOnline;
     }
 
     // Переопределение метода equals
@@ -51,6 +43,6 @@ public class Player {
     public String toString() {
         return "Player{" +
                 "id=" + id +
-                ", nickname='" + nickname + "";
+                ", nickname='" + nickname;
     }
 }

@@ -1,11 +1,11 @@
 package ru.innopolis;
 
 public class Movie {
-    private String title;
-    private double rating;
-    private String genre;
-    private String country;
-    private boolean hasOscar;
+    public String title;
+    public final double rating;
+    public final String genre;
+    public String country;
+    public boolean hasOscar;
 
     public Movie(String title, double rating, String genre, String country, boolean hasOscar) {
         if (rating < 0 || rating > 10) {
