@@ -35,7 +35,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tournament">
+  <component name="RunManager" selected="Application.PlayerStorage">
     <configuration name="DaylyPlanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.innopolis.DaylyPlanner" />
       <module name="Urok9" />
@@ -103,8 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tournament" />
         <item itemvalue="Application.PlayerStorage" />
+        <item itemvalue="Application.Tournament" />
         <item itemvalue="Application.DaylyPlanner" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Movie" />
