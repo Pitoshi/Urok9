@@ -21,7 +21,8 @@ import java.util.Set;
         }
 
         public static void main(String[] args) {
-            PlayerStorage Player = new PlayerStorage();
+            PlayerStorage Player;
+            Player = new PlayerStorage();
 
             // Создание 10 игроков
             Player player1 = new Player(1, "PlayerOne", true);
